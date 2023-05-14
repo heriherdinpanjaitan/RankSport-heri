@@ -1,0 +1,331 @@
+
+/* navbar */
+
+.navbar{
+    background: #1E1E1E;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: white !important;
+}
+
+.navbar-brand span{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FF0000 !important;
+
+}
+
+.navbar-brand{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #000000 !important;
+
+}
+
+.nav-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000 !important; 
+}
+
+
+
+/* tutup navbar */
+
+.breadcrumb{
+    background-color: white;
+    padding-left: 120px;
+}
+
+.breadcrumb-item{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000; 
+}
+
+/* detail */
+
+.dtil{
+    padding-left: 120px;
+}
+
+.detail{
+    margin-top: 40px;
+}
+
+.detail-img{
+    margin-right: 80px;
+    margin-top: -80px ;
+}
+
+.detail-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #000000;
+
+}
+
+.detail-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FF0000;
+
+}
+
+.jenis{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+
+.pilih{
+    box-sizing: border-box;
+    height: 45px;
+    background: #F4F4F4;
+    border: 1px solid #000000;
+    border-radius: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.fa-minus{
+    width: 50px;
+    height: 50px;
+    background: #DA6262;
+    border: 1px solid #000000;
+    border-radius: 5px 0px 0px 5px;
+
+    font-family: 'fontawesome';
+    margin-top: 5px;
+    padding-top: 15px;
+    text-align: center;
+    color: #1E1E1E;
+
+}
+
+.quan{
+    width: 50px;
+    height: 50px;
+    background: #F3F3F3;
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: #000000;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+}
+
+.fa-plus{
+    width: 50px;
+    height: 50px;
+    background: #78D38C;
+    border: 1px solid #000000;
+    border-radius: 0px 5px 5px 0px;
+    font-family: 'fontawesome';
+    margin-top: 5px;
+    padding-top: 15px;
+    text-align: center;
+    color: #1E1E1E;
+}
+
+
+.btn-submit{
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 305px;
+    height: 45px;
+    background: #78D38C;
+    border: 1px solid #000000;
+    border-radius: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+    transition: all 0.2s ease;
+
+}
+
+.btn-submit:hover{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-cart{
+    margin-top: 10px;
+    box-sizing: border-box;
+    width: 305px;
+    height: 45px;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+    transition: all 0.2s ease;
+
+}
+
+.btn-cart:hover{
+    color: #78D38C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* tutup detail */
+
+/* about */
+
+.about{
+    margin-top: 90px;
+    margin-left: 120px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+
+
+/* tutup about */
+
+/* related product */
+.related{
+    margin-top: 80px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+
+    color: #1E1E1E;
+}
+
+.related-products{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.na-product1{
+    width: 230px;
+    height: 380px;
+}
+.na-product{
+    margin-left: 50px;
+    width: 230px;
+    height: 380px;
+}
+
+.na-name{
+    margin-top: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.na-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FF0000;
+}
+
+/* tutup related product */
+
+
+/* footer */
+
+footer{
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: #1E1E1E;
+}
+
+.lokasi{
+    margin-top: 30px;
+}
+
+.footer-logo{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.footers{
+    margin-top: 20px;
+    margin-left: 360px !important; 
+}
+
+.footer-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+
+.phone{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.copyright{
+    margin-top: 30px;
+    width: 1440px;
+    height: 50px;
+    background: #D9D9D9;
+}
+
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* tutup footer */
+

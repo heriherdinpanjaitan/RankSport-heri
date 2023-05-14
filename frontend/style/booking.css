@@ -1,0 +1,240 @@
+
+/* navbar */
+
+.navbar{
+    background: #1E1E1E;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: #1E1E1E !important;
+}
+
+.navbar-brand span{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FF0000 !important;
+
+}
+
+.navbar-brand{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff !important;
+
+}
+
+.nav-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff !important; 
+}
+
+
+
+/* tutup navbar */
+
+/* booking */
+
+.proses{
+    margin-top: 90px;
+    margin-bottom: 180px;
+}
+
+.booking{
+    padding-left: 120px;
+}
+
+.book h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    color: #1E1E1E; 
+}
+
+.grs{
+    width: 524px;
+    height: 0px;
+    border: 1px solid #000000;
+    transform: rotate(179.78deg);
+
+}
+
+.cart-totals{
+    margin-left: 100px;
+    background-color: #1E1E1E;
+    width: 500px;
+    height: 600px;
+}
+
+.cart-totals h5{
+    padding-top: 65px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.garis{
+    width: 365.03px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+
+}
+
+.fee{
+    color: #FFFFFF;
+    margin-left: 65px;
+    margin-top: 65px;
+}
+
+.kiri{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.kanan{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 167px;
+}
+
+.discount{
+    color: #FF0000;
+}
+
+.semua{
+    margin-top: 20px;
+    margin-left: 65px;
+}
+
+.total p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+
+}
+
+.rp{
+    margin-left: 158px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+
+}
+
+.btn-success{
+    margin-top: 40px;
+    width: 364px;
+    height: 50px;
+    background: #78D38C;
+    border-radius: 4px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.btn-danger{
+    margin-top: 30px;
+    width: 364px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 4px; 
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #353535;
+}
+
+
+
+/* tutup booking */
+
+
+/* footer */
+
+footer{
+    margin-top: 180px;
+    padding-top: 30px;
+    background-color: #1E1E1E;
+}
+
+.lokasi{
+    margin-top: 30px;
+}
+
+.footer-logo{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.footers{
+    margin-top: 20px;
+    margin-left: 360px !important; 
+}
+
+.footer-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+
+.phone{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.copyright{
+    margin-top: 30px;
+    width: 1440px;
+    height: 50px;
+    background: #D9D9D9;
+}
+
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* tutup footer */
+

@@ -1,0 +1,198 @@
+body{
+    background: #1E1E1E;
+}
+
+/* navbar */
+
+.navbar{
+    background: #1E1E1E;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: white !important;
+}
+
+.navbar-brand span{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FF0000 !important;
+
+}
+
+.navbar-brand{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #000000 !important;
+
+}
+
+.nav-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000 !important; 
+}
+
+
+
+/* tutup navbar */
+
+/* section */
+
+.section-img{
+    margin-top: 100px;
+}
+
+/* new arrival */
+.newarrival{
+    margin-top: 40px;
+    margin-left: 230px;
+}
+.na-product1{
+    width: 230px;
+    height: 380px;
+}
+.na-product{
+    margin-left: 20px;
+    width: 230px;
+    height: 380px;
+}
+
+.na-name{
+    margin-top: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.na-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FF0000;
+}
+/* tutup new arrival */
+
+
+/* kategori */
+
+.kategori{
+    transition: all 0.2s ease;
+}
+
+.kategori:hover{
+    transform: scale(1.1);
+}
+
+/* tutup kategori */
+/* brands */
+
+.brand{
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+.ba{
+    margin-left: 30px;
+}
+
+.ba-thumb{
+    transition: all 0.2s ease;
+}
+
+.ba-thumb:hover{
+    transform: scale(1.1);
+}
+
+.bs-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.bs-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FF0000;
+}
+.bestseller{
+    margin-top: 40px;
+    margin-left: 220px;
+}
+
+/* tutup brands */
+
+/* tutup section */
+
+/* footer */
+
+.lokasi{
+    margin-top: 30px;
+}
+
+.footer-logo{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.footers{
+    margin-top: 20px;
+    margin-left: 360px !important; 
+}
+
+.footer-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+
+.phone{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.copyright{
+    margin-top: 30px;
+    width: 1440px;
+    height: 50px;
+    background: #D9D9D9;
+}
+
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* tutup footer */
+
